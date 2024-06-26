@@ -1,3 +1,4 @@
+work in progress. 
 
 **Targeting the superior temporal gyrus with real-time fMRI neurofeedback: a pilot study of the indirect effects on self-referential processes in schizophrenia**
 
@@ -7,3 +8,5 @@ DOI: https://doi.org/10.1016/j.schres.2024.06.036
 
 <sup>*</sup> corresponding author\
 <sup>1</sup> co-senior authors
+
+
