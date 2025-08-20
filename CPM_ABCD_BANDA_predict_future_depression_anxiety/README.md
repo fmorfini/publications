@@ -1,7 +1,7 @@
 This repository contains code used for the paper :point_down:: 
 \
 \
-**Morfini, F.**, Kucyi, A., Zhang, J., Bauer, C. C. C., Bloom, P. A., Pagliaccio, D., Hubbard, N., Rosso, I. M., Yendiki, A., Ghosh, S. S., Pizzagalli, D. A., Gabrieli, J. D., Whitfield-Gabrieli, S., Auerbach, R. P. (*Forthcoming*). Brain functional connectivity predicts depression and anxiety during childhood and adolescence: a connectome-based predictive modeling approach. Imaging Neuroscience. 
+**Morfini, F.**, Kucyi, A., Zhang, J., Bauer, C. C. C., Bloom, P. A., Pagliaccio, D., Hubbard, N., Rosso, I. M., Yendiki, A., Ghosh, S. S., Pizzagalli, D. A., Gabrieli, J. D., Whitfield-Gabrieli, S., Auerbach, R. P. (*Forthcoming*). Brain functional connectivity predicts depression and anxiety during childhood and adolescence: a connectome-based predictive modeling approach. *Imaging Neuroscience*. 
 
 
 |||
