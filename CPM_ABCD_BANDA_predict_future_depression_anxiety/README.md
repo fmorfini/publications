@@ -1,6 +1,3 @@
-this repo is work in progress
-
-<!-- 
 This repository contains code used for the paper :point_down:: 
 \
 \
@@ -14,4 +11,3 @@ This repository contains code used for the paper :point_down::
 
 ___
 Check out my [google scholar account](https://scholar.google.com/citations?user=_FEmaGoAAAAJ&hl=en&oi=ao) or [curriculum vitae](https://fmorfini.github.io/CV/)
- -->
